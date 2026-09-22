@@ -2,12 +2,18 @@
 
 I'm currently learning Python and Software Engineering.
 
-## What I'm learning
+## Learning Journey
 
-- Python
-- Git & GitHub
-- Problem Solving
-- Software Engineering Fundamentals
+I started my programming journey with JavaScript and explored the fundamentals.
+
+I'm currently focusing on Python and building a strong foundation in Software Engineering.
+
+## What I'm Learning
+
+* Python
+* Git & GitHub
+* Problem Solving
+* Software Engineering Fundamentals
 
 ## Current Goal
 
